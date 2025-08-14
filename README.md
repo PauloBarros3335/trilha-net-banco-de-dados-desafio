@@ -91,6 +91,8 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ![Exercicio 12](Imagens/12.png)
 
 
+![Exercicio 13](Imagens/13.png)
+
 
 
 
